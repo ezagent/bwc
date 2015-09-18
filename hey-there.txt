@@ -1,0 +1,12 @@
+This is my first git experience. I'm following a tutorial from youtube...
+
+https://www.youtube.com/watch?t=7&v=0fKg7e37bQE
+
+... which came to me by way of a tutorial:
+
+http://rogerdudler.github.io/git-guide/
+
+I ended up on the tutorial because I want to use github wordpress plugins.
+
+Am I off on a tangent?
+
